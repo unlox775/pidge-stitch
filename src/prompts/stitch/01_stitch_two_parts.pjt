@@ -34,7 +34,7 @@ I want you to combine post_one_end and post_two_start into one text body, called
 3. This largely is by ruthlessly cutting sum-up conclusions describing the scene at the end of post one
 4. Then also remove as much as necessary from the start of post two, that was already established in post one, such as the zoomed-out view detailing the scene and all the people in it. 
 5. However in your cutting never cut out dialogue or any actions or events. Those are neither preamble nor conclusion!
-6. Please be careful to include the entire start of `post_one_` and the detail at the end of `post_two_start`, becauseif you drop it, it will be gone from my story!
+6. Please be careful to include the entire start of `post_one_` and the detail at the end of `post_two_start`, because if you drop it, it will be gone from my story!
 7. Your job is not to shorten or summarize the parts of the story that are not preamble/conclusion. Keep as much as you can
 
 Give me a JSON object like { "one_two_blend": "…"}
