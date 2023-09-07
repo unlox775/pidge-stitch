@@ -1,0 +1,40 @@
+Ok, I have a story that me and an AI assistant have been creating in short sections. We plan a bit and the AI outputted each page of the story one conversation response at a time.  While this is great and I love the story. There are som continuity problems due to the page-by-page output of each part of the story. 
+
+The problem is that each page the AI output, had a conversational preamble before the beginning of the story:
+- sometimes it is something like “Certainly I can help you with the next section …”
+- other times the issue is that it starts with a summarization of the story or situation like “the adventurers and the villains stood tensed in the summer sun …” which seems OK, except the last part of the story was already in mid-combat so we don’t need reminding of the situation. 
+
+Secondly the issue is that the AI added a “conclusion” at the end of each page:
+- commonly this is like: “Ok, I hope you like the story adjustments I made, I made sure to follow your …”
+- often it ends with a summary of the situation like “And so our adventurers were left wondering how the fight would end …”
+
+I would like your editing help. I will give you 4 variables in HereDOC syntax:
+- post_one_middle - the middle third of the first post
+- post_one_end - the rest of post one
+- post_two_start - the first third of post two
+- post_two_middle - the middle third of post two
+
+Ok here are the variables:
+post_one_middle = <<ONEMID
+{{ pair.post_one_middle }}
+ONEMID
+post_one_end = <<ONEEND
+{{ pair.post_one_end }}
+ONEEND
+post_two_start = <<TWOSTART
+{{ pair.post_two_start }}
+TWOSTART
+post_two_middle = <<TWOMID
+{{ pair.post_two_middle }}
+TWOMID
+
+I want you to combine post_one_end and post_two_start into one text body, called`onetwo_blend`. That body should perfectly fit against the two `middle` sections to make the two posts flow seamlessly together. Please:
+1. remove or minimize any “preable”/“conclusion” from the end/start variable’s content. 
+2. Remove as much as necessary of both part one’s end and part two’s start until it no longer feels like a pause in the story or a transition at all. 
+3. This largely is by ruthlessly cutting sum-up conclusions describing the scene at the end of post one
+4. Then also remove as much as necessary from the start of post two, that was already established in post one, such as the zoomed-out view detailing the scene and all the people in it. 
+5. However in your cutting never cut out dialogue or any actions or events. Those are neither preamble nor conclusion!
+6. Please be careful to include the entire start of `post_one_` and the detail at the end of `post_two_start`, becauseif you drop it, it will be gone from my story!
+7. Your job is not to shorten or summarize the parts of the story that are not preamble/conclusion. Keep as much as you can
+
+Give me a JSON object like { "one_two_blend": "…"}
