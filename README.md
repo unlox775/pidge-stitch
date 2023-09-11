@@ -59,7 +59,7 @@ cat your_input_file.json | pidge go --session mystory1
 ]
 ```
 
-Here it is in a more readable format:
+Here it is in a more readable format.  The portion of the text that gets merged is in bold italics.
 
 ####  First mesasge from AI:
 
