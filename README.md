@@ -70,3 +70,7 @@ Guided through the lush gardens of the city, a fine mist sprayed from hidden mec
 The brass dragon reclined comfortably on a satin pillow, his forearm adorned with intricate platinum bracelets embedded with an array of gems.  As Braxion concluded his previous conversation, the adventurers waited.  They had been closely guarded since their arrival, leading them to question the guards' purpose. 
 
 "Protect me or protect from me?" Key couldn't help but murmur.
+
+"From you, mostly," confirmed one of the guards, solidifying the atmosphere of caution that enveloped them.
+
+
