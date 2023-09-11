@@ -1,4 +1,4 @@
-# Pidge Stitcher for ChatGPT Content
+# Pidge-based Stitcher for AI Content
 
 ## Overview
 The Pidge Stitcher is designed specifically for handling and refining the output from generative AIs like ChatGPT. It aims to stitch together a series of AI-generated content messages by removing redundant preambles and conclusions in consecutive AI messages, thereby producing a more cohesive story.
