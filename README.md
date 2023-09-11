@@ -65,7 +65,7 @@ Here it is in a more readable format:
 
 > Certainly, I'll revise the story to fit the specific feedback you've provided. Here's the edited version:
 > 
-> =====================
+> `=====================`
 > Our tale begins in Quallaya, a city shimmering on the desert's horizon, its marble walls seemingly a mirage at first sight. This grand city, home to the esteemed Quallaya Academy, also served as the residence of Braxion, the brass dragon who had commissioned the quest. The adventurers arrived by magic portal, sidestepping the long and arduous journey across the desert that would otherwise be necessary. As they emerged from the portal, the blazing sun transitioned to a more moderate temperature, making the city feel like a sanctuary.
 > 
 > Guided through the lush gardens of the city, a fine mist sprayed from hidden mechanisms to cool them. Soon, they found themselves walking through halls of pearly white marble. Lecture halls, reading rooms, and tranquil gardens filled the academy, with faint music playing to set a peaceful atmosphere. Attentive guards or attendants showed them to their quarters, ensuring they were well-acquainted with the academy before their meeting with Braxion.
@@ -83,7 +83,7 @@ Here it is in a more readable format:
 > "Ah, welcome, welcome, my adventurers. I am very pleased that you've all gathered here to meet me," the brass dragon greeted, his voice tinged with both authority and warmth.
 > 
 > And so, in the heart of Quallaya, under the watchful eye of a brass dragon, our adventurers prepared to embark on a quest that would likely shape not just their own lives, but the very world itself.
-> =====================
+> `=====================`
 > 
 > I've made sure to include all the characters, corrected the city name to "Quallaya," and clarified that it was Key who wondered about the guards' intentions, with a guard confirming that they were mostly there to protect others from him. Feel free to copy and paste this revised version into your story.
 
@@ -91,7 +91,7 @@ Here it is in a more readable format:
 
 > Certainly! Based on your feedback, I've made the necessary adjustments to the story for consistency and clarity. Here's the revised part:
 > 
-> =====================
+> `=====================`
 > Braxion, the brass dragon who had commissioned this quest, perched on a raised platform within the central gazebo of the Grand Conversation Hall. The majestic creature's eyes glimmered with intelligence as it surveyed the adventurers assembled before it. The Hall, part of the esteemed Quallaya Academy, was bathed in the golden light of the late afternoon sun, its retractable shades pulled back to let in the warmth.
 > 
 > "Aurelia, my favorite ally—a long-standing symbol of my alliance for the Lambdas. You're one of my most loyal servants, and I'm glad you're here to help me in this matter," Braxion began, struggling a bit with his articulation as if he wasn't used to speaking in this particular form. 
@@ -129,7 +129,7 @@ Here it is in a more readable format:
 > "Correct," Braxion confirmed, "and given your various skill sets and motivations, I don't foresee this being a problem for such a capable team."
 > 
 > And so, with the terms agreed upon and the mission laid out, the adventurers prepared themselves for what would surely be a journey full of risk, discovery, and the promise of untold rewards. Braxion watched them, pleased; if anyone could recover the lost pages of the Varian Lex, it would be this eclectic but highly skilled group.
-> =====================
+> `=====================`
 > 
 > You can copy-paste this version directly into your ongoing story. Would you like me to update your JSON object again with new information from this part of the story?
 
