@@ -66,6 +66,7 @@ Here it is in a more readable format:
 > Certainly, I'll revise the story to fit the specific feedback you've provided. Here's the edited version:
 > 
 > `=====================`
+> 
 > Our tale begins in Quallaya, a city shimmering on the desert's horizon, its marble walls seemingly a mirage at first sight. This grand city, home to the esteemed Quallaya Academy, also served as the residence of Braxion, the brass dragon who had commissioned the quest. The adventurers arrived by magic portal, sidestepping the long and arduous journey across the desert that would otherwise be necessary. As they emerged from the portal, the blazing sun transitioned to a more moderate temperature, making the city feel like a sanctuary.
 > 
 > Guided through the lush gardens of the city, a fine mist sprayed from hidden mechanisms to cool them. Soon, they found themselves walking through halls of pearly white marble. Lecture halls, reading rooms, and tranquil gardens filled the academy, with faint music playing to set a peaceful atmosphere. Attentive guards or attendants showed them to their quarters, ensuring they were well-acquainted with the academy before their meeting with Braxion.
@@ -92,6 +93,7 @@ Here it is in a more readable format:
 > Certainly! Based on your feedback, I've made the necessary adjustments to the story for consistency and clarity. Here's the revised part:
 > 
 > `=====================`
+> 
 > Braxion, the brass dragon who had commissioned this quest, perched on a raised platform within the central gazebo of the Grand Conversation Hall. The majestic creature's eyes glimmered with intelligence as it surveyed the adventurers assembled before it. The Hall, part of the esteemed Quallaya Academy, was bathed in the golden light of the late afternoon sun, its retractable shades pulled back to let in the warmth.
 > 
 > "Aurelia, my favorite ally—a long-standing symbol of my alliance for the Lambdas. You're one of my most loyal servants, and I'm glad you're here to help me in this matter," Braxion began, struggling a bit with his articulation as if he wasn't used to speaking in this particular form. 
