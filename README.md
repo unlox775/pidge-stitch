@@ -79,33 +79,33 @@ Here it is in a more readable format.  The portion of the text that gets merged 
 > 
 > "From you, mostly," confirmed one of the guards, solidifying the atmosphere of caution that enveloped them.
 > 
-> ***Finally, they were invited to approach Braxion, whose gaze focused intently on them.***
+> ${\color{red}Finally, they were invited to approach Braxion, whose gaze focused intently on them.}$
 > 
-> ***"Ah, welcome, welcome, my adventurers. I am very pleased that you've all gathered here to meet me," the brass dragon greeted, his voice tinged with both authority and warmth.***
+> ${\color{red}"Ah, welcome, welcome, my adventurers. I am very pleased that you've all gathered here to meet me," the brass dragon greeted, his voice tinged with both authority and warmth.}$
 > 
-> ***And so, in the heart of Quallaya, under the watchful eye of a brass dragon, our adventurers prepared to embark on a quest that would likely shape not just their own lives, but the very world itself.***
+> ${\color{red}And so, in the heart of Quallaya, under the watchful eye of a brass dragon, our adventurers prepared to embark on a quest that would likely shape not just their own lives, but the very world itself.}$
 > 
 > `=====================`
 > 
-> ***I've made sure to include all the characters, corrected the city name to "Quallaya," and clarified that it was Key who wondered about the guards' intentions, with a guard confirming that they were mostly there to protect others from him. Feel free to copy and paste this revised version into your story.***
+> ${\color{red}I've made sure to include all the characters, corrected the city name to "Quallaya," and clarified that it was Key who wondered about the guards' intentions, with a guard confirming that they were mostly there to protect others from him. Feel free to copy and paste this revised version into your story.}$
 
 ####  Second message from AI:
 
-> ***Certainly! Based on your feedback, I've made the necessary adjustments to the story for consistency and clarity. Here's the revised part:***
+> ${\color{red}Certainly! Based on your feedback, I've made the necessary adjustments to the story for consistency and clarity. Here's the revised part:}$
 > 
 > `=====================`
 > 
-> ***Braxion, the brass dragon who had commissioned this quest, perched on a raised platform within the central gazebo of the Grand Conversation Hall. The majestic creature's eyes glimmered with intelligence as it surveyed the adventurers assembled before it. The Hall, part of the esteemed Quallaya Academy, was bathed in the golden light of the late afternoon sun, its retractable shades pulled back to let in the warmth.***
+> ${\color{red}Braxion, the brass dragon who had commissioned this quest, perched on a raised platform within the central gazebo of the Grand Conversation Hall. The majestic creature's eyes glimmered with intelligence as it surveyed the adventurers assembled before it. The Hall, part of the esteemed Quallaya Academy, was bathed in the golden light of the late afternoon sun, its retractable shades pulled back to let in the warmth.}$
 > 
-> ***"Aurelia, my favorite ally—a long-standing symbol of my alliance for the Lambdas. You're one of my most loyal servants, and I'm glad you're here to help me in this matter," Braxion began, struggling a bit with his articulation as if he wasn't used to speaking in this particular form.***
+> ${\color{red}"Aurelia, my favorite ally—a long-standing symbol of my alliance for the Lambdas. You're one of my most loyal servants, and I'm glad you're here to help me in this matter," Braxion began, struggling a bit with his articulation as if he wasn't used to speaking in this particular form.}$
 > 
-> ***He then turned his gaze toward Aric. "Your family has long been my ally. I'm glad you've taken the steps to be here. I think this endeavor will benefit both of us greatly."***
+> ${\color{red}He then turned his gaze toward Aric. "Your family has long been my ally. I'm glad you've taken the steps to be here. I think this endeavor will benefit both of us greatly."}$
 > 
-> ***Braxion’s eyes shifted to Key. "And Key, your expertise will be most useful. Your reputation precedes you. I do hope the guards haven't made your stay too unpleasant."***
+> ${\color{red}Braxion’s eyes shifted to Key. "And Key, your expertise will be most useful. Your reputation precedes you. I do hope the guards haven't made your stay too unpleasant."}$
 > 
-> ***"Eh, it's been pretty fine," Key responded, casually flicking a finger toward the attendant guards. "I wish these guys would get off my back, but I get that's probably not going to happen."***
+> ${\color{red}"Eh, it's been pretty fine," Key responded, casually flicking a finger toward the attendant guards. "I wish these guys would get off my back, but I get that's probably not going to happen."}$
 > 
-> ***"Perhaps not," Braxion conceded, "but it's all for the best—just precautions.*** Let's move on to more productive matters."
+> ${\color{red}"Perhaps not," Braxion conceded, "but it's all for the best—just precautions.}$ Let's move on to more productive matters."
 > 
 > Finally, Braxion's gaze settled on Taeral, who was currently in the shape of a monkey, idly picking at some fruits laid out on a table. "Taeral, you've been here for a while, and we could really use your expertise on this mission. It requires someone who’s been around and understands the lay of the land."
 > 
@@ -155,19 +155,19 @@ Here it is in a more readable format.  The portion of the text that gets merged 
 > 
 > "From you, mostly," confirmed one of the guards, solidifying the atmosphere of caution that enveloped them.
 > 
-> ***Finally, they were invited to approach Braxion, whose gaze focused intently on them.***
+> ${\color{red}Finally, they were invited to approach Braxion, whose gaze focused intently on them.}$
 > 
-> ***"Ah, welcome, welcome, my adventurers. I am very pleased that you've all gathered here to meet me," the brass dragon greeted, his voice tinged with both authority and warmth.***
+> ${\color{red}"Ah, welcome, welcome, my adventurers. I am very pleased that you've all gathered here to meet me," the brass dragon greeted, his voice tinged with both authority and warmth.}$
 > 
-> ***"Aurelia, my favorite ally—a long-standing symbol of my alliance for the Lambdas. You're one of my most loyal servants, and I'm glad you're here to help me in this matter," Braxion began, struggling a bit with his articulation as if he wasn't used to speaking in this particular form.***
+> ${\color{red}"Aurelia, my favorite ally—a long-standing symbol of my alliance for the Lambdas. You're one of my most loyal servants, and I'm glad you're here to help me in this matter," Braxion began, struggling a bit with his articulation as if he wasn't used to speaking in this particular form.}$
 > 
-> ***He then turned his gaze toward Aric. "Your family has long been my ally. I'm glad you've taken the steps to be here. I think this endeavor will benefit both of us greatly."***
+> ${\color{red}He then turned his gaze toward Aric. "Your family has long been my ally. I'm glad you've taken the steps to be here. I think this endeavor will benefit both of us greatly."}$
 > 
-> ***Braxion’s eyes shifted to Key. "And Key, your expertise will be most useful. Your reputation precedes you. I do hope the guards haven't made your stay too unpleasant."***
+> ${\color{red}Braxion’s eyes shifted to Key. "And Key, your expertise will be most useful. Your reputation precedes you. I do hope the guards haven't made your stay too unpleasant."}$
 > 
-> ***"Eh, it's been pretty fine," Key responded, casually flicking a finger toward the attendant guards. "I wish these guys would get off my back, but I get that's probably not going to happen."***
+> ${\color{red}"Eh, it's been pretty fine," Key responded, casually flicking a finger toward the attendant guards. "I wish these guys would get off my back, but I get that's probably not going to happen."}$
 > 
-> ***"Perhaps not," Braxion conceded, "but it's all for the best—just precautions."***  Let's move on to more productive matters."
+> ${\color{red}"Perhaps not," Braxion conceded, "but it's all for the best—just precautions."}$  Let's move on to more productive matters."
 > 
 > Finally, Braxion's gaze settled on Taeral, who was currently in the shape of a monkey, idly picking at some fruits laid out on a table. "Taeral, you've been here for a while, and we could really use your expertise on this mission. It requires someone who’s been around and understands the lay of the land."
 > 
