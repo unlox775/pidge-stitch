@@ -7,7 +7,7 @@ The Pidge Stitcher is designed specifically for handling and refining the output
 ChatGPT, as with many generative AIs, often adds a "preamble" at the start of its messages, such as setting up the scene or a prefix like "Okay, certainly I'd love to help with that." These AI messages also conclude with summaries or endings, like "I hope you found this helpful."  When generating a story across multiple messages, these repetitive beginnings and ends disrupt the flow of the story, as an artifact of the AI's output constraints.
 
 ## Solution
-The Pidge Stitcher addresses this by blending and stitching messages together. It segments each message into thirds (top, middle, bottom) and then merges the last third of a message with the first third of the subsequent message, aiming to create a smoother transition and a unified body of content.  This also shortens the messages aa little as the preambles and conclusions are removed.
+The Pidge Stitcher addresses this by blending and stitching messages together. It segments each message into thirds (top, middle, bottom) and then merges the last third of a message with the first third of the subsequent message, aiming to create a smoother transition and a unified body of content.  This also shortens the messages a little as the preambles and conclusions are removed.
 
 ## How it Works
 
