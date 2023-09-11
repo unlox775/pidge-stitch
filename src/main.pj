@@ -12,3 +12,5 @@ foreach(split_up.pairs, fn {pair,i} ->
   final_stitched <~ obj.one_two_blend
 end)
 final_stitched <~ split_up.last_end
+
+Local.save_stitched(final_stitched)
